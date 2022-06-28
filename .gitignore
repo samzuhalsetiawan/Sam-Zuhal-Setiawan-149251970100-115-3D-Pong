@@ -1,10 +1,5 @@
-Library/* 
-Logs/* 
-Temp/* 
-.vs/* 
-obj/*
-Build/*
- 
-.vsconfig 
-*.sln 
-*.csproj 
+*.*
+*/*
+!build/*
+!.gitignore
+!readme.md
